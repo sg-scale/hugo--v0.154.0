@@ -46,7 +46,7 @@ require (
 	github.com/gohugoio/localescompressed v1.0.1
 	github.com/google/go-cmp v0.7.0
 	github.com/gorilla/websocket v1.5.3
-	github.com/hairyhenderson/go-codeowners v0.7.0
+	github.com/hairyhenderson/go-codeowners v0.7.2
 	github.com/jdkato/prose v1.2.1
 	github.com/kyokomi/emoji/v2 v2.2.13
 	github.com/magefile/mage v1.15.0
@@ -176,7 +176,7 @@ require (
 	go.opentelemetry.io/otel/sdk v1.37.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.37.0 // indirect
 	go.opentelemetry.io/otel/trace v1.37.0 // indirect
-	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/crypto v0.46.0 // indirect
 	golang.org/x/oauth2 v0.32.0 // indirect
 	golang.org/x/sys v0.39.0 // indirect
